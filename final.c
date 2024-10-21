@@ -1,1 +1,1 @@
-//Game with Sierra;
+//Game with Sierra
